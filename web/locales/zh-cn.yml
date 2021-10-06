@@ -1,0 +1,17 @@
+zh-cn:
+  Batch: 批次 %{bid}
+  Batches: 批处理
+  NoBatchesFound: 没有发现批处理任务
+  Description: 描述
+  Size: 总数
+  Pending: 待处理
+  Job: 作业
+  Class: 类别
+  Failures: 失败数
+  ErrorMessage: 错误消息
+  ErrorBacktrace: 错误的回调追踪
+  Started: 开始时间
+  JobCount: 作业数
+  Failed: 已失败
+  Status: 状态
+  Parent: 父级

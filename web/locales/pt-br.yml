@@ -1,0 +1,17 @@
+pt-br:
+  Batch: Lote %{bid}
+  Batches: Lotes
+  NoBatchesFound: Nenhum lote encontrado
+  Description: Descrição
+  Size: Tamanho
+  Pending: Aguardando
+  Job: Tarefa
+  Class: Classe
+  Failures: Falhas
+  ErrorMessage: Mensagem de Erro
+  ErrorBacktrace: Backtrace do Erro
+  Started: Iniciados
+  JobCount: Quantidade de Tarefas
+  Failed: Falhas
+  Status: Estado
+  Parent: Pai

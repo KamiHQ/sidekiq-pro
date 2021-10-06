@@ -1,0 +1,17 @@
+ru:
+  Batch: Партия %{bid}
+  Batches: Партии
+  NoBatchesFound: Партии не найдены
+  Description: Описание
+  Size: Размер
+  Pending: Ожидает
+  Job: Задача
+  Class: Класс
+  Failures: Провалы
+  ErrorMessage: Сообщение об ошибке
+  ErrorBacktrace: Трассировка ошибки
+  Started: Начато
+  JobCount: Число задач
+  Failed: Провалено
+  Status: Статус
+  Parent: Родитель

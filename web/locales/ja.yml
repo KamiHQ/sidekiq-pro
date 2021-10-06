@@ -1,0 +1,17 @@
+ja:
+  Batch: バッチ %{bid}
+  Batches: バッチ処理
+  NoBatchesFound: バッチ処理が設定されていません
+  Description: 説明
+  Size: サイズ
+  Pending: 未成功
+  Job: ジョブ
+  Class: クラス
+  Failures: 失敗
+  ErrorMessage: エラーメッセージ
+  ErrorBacktrace: バックトレース
+  Started: 開始
+  JobCount: 回数
+  Failed: 失敗
+  Status: ステータス
+  Parent: 親
